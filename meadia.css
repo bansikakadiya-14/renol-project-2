@@ -1,0 +1,1873 @@
+*{
+    box-sizing: border-box;
+}
+@media (min-width:0)and ( max-width:547px)
+{
+    .container{
+        width: 540px;
+        flex-wrap: wrap;
+    }
+    .back{
+        /* width: 242%; */
+        width: 772px;
+        }
+        .content .title{
+            font-size: 34.96px;
+        }
+        .content .title{
+            font-weight:700;
+            font-size: 83px;
+        }
+        .content h1{
+            padding: 20px;
+            font-size: 34.96px;
+        }
+        .pera{
+            font-size: 43px;
+        }
+        .btr1 .reg {
+            padding: 30px 30px;
+             font-size: 36px;
+        }
+        .logo2{
+            font-size: 33px;
+        }
+        .btr1{
+            padding: 20px 1px;
+        width: 373px;
+        text-align: center;
+          }
+        }
+
+
+
+
+
+@media (min-width:0)and ( max-width:547px)
+{
+    .container{
+        width: 100%;
+        margin: 15px 0;
+
+    }
+    .about-back{
+        flex-wrap: wrap;
+    }
+    .img2{
+        height: auto;
+    }
+    .about-us .about{
+        font-size: 58px;
+        font-weight: 600;
+    }
+    .about-us .border{
+        width: 126px;
+    }
+    section{
+        padding:0;
+        margin: 0;
+    }
+    .about-us {
+        margin: 0;
+        padding-left: 33px;
+    }
+    .us{
+        width: 772px;
+    }
+    .about-us .best {
+        font-size: 44px;
+    }
+    .about-us .title1 .pera{
+        font-size: 35px;
+    }
+    .show-more a {
+        padding: 33px 46px;
+        font-size: 38px;
+    }
+    .show-more a .logo3{
+        font-size: 33px;
+    }
+.show-more {
+    margin: 66px 0;
+}
+}
+/* our service */
+
+
+    
+    @media (min-width:0)and ( max-width:547px){
+        .services{
+            font-size: 50px;
+            font-weight: 600;
+         } 
+         .container{
+            width: 100%;
+            margin: 15px 0;
+    
+        } 
+         
+        .our-services{
+         width: 772px;
+         margin: 0;
+         padding-left: 33px;
+        }
+      .main-box .row-1 .col-1 .border{
+         width: 126px;
+      }
+     .main-box .row-1 .col-1 .Advance{
+     font-size: 44px;
+     }
+                    
+
+.our-services .main-box .row-1 {
+flex-wrap: wrap;
+} 
+.our-services .main-box .row-2{
+    flex-wrap: wrap;
+}
+.our-services .main-box .row-3{
+    flex-wrap: wrap;
+}
+.main-box .row-1 .col-2 a {
+    font-size: 42px;
+}
+.main-box .row-1 .col-2 .logo4{
+    font-size: 33px;
+    padding-left: 10px;
+
+}
+.main-box .row-2 .col-1{
+    padding-top: 172px;
+    width: 100%;
+}
+.main-box .row-2 .col-2{
+    padding-top: 117px;
+    width: 100%;
+
+}
+.row-2 .col-1 .number,.row-2 .col-2 .number{
+    font-size: 38px;
+}
+.row-2 .col-1 .title ,.row-2 .col-2 .title{
+    font-size: 40px;
+    /* margin: 10px 0px; */
+
+}
+.row-2 .col-1 .pera1,.row-2 .col-2 .pera1{
+    font-size: 38px;
+}
+.main-box .row-3 .col-1{
+    width: 100%;
+    
+}
+.main-box .row-1 .col-2 {
+    width:100%;
+}
+.row-3 .Design{
+    font-size: 41px;
+
+}
+.row-3 .col-1 .logo5,.row-3 .col-2 .logo5,.row-3 .col-3 .logo5{
+    color: black;
+    height: 100px;
+    width: 100px;
+    font-size: 60px;
+    padding: 19px;
+    text-align: center;
+    background-color: #d1e7dd;
+    border-radius: 50px;
+
+}
+}
+
+/* why choose us */
+@media (min-width:0)and ( max-width:547px){
+    .container{
+        width: 100%;
+        margin: 15px 0;
+
+    } 
+    .Why-Choose-Us{
+        width: 772px;
+         margin: 0;
+         padding-left: 33px;
+    }
+    .Why-Choose-Us .page .img .img6{
+        padding: 70px 0px;
+
+    }
+    .title .services{
+        font-size: 48px;
+    } 
+    .page {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .border{
+        width: 126px;
+    }
+    .world{
+        font-size:50px;       
+    }
+    .pera2 {
+        font-size: 43px;
+    }
+    .button {
+        justify-content:left;
+    }
+    .body .button a{
+        font-size: 40px;
+    }
+    .body .title .point span{
+        font-size: 32px;
+
+    }
+    .circle{
+        font-size: 44.8px;
+
+    }
+}
+/* our work flow */
+    @media (min-width:0)and ( max-width:547px){
+        .container{
+            width: 100%;
+            margin: 15px 0;
+    
+        } 
+        .Our-Work-Flow{
+            width: 772px;
+             margin: 0;
+             padding-left: 33px;
+        }
+        .our-work{
+            margin: 0px;
+        }
+    .Our-Work-Flow .work{
+        flex-wrap: wrap;
+    }
+    .Our-Work-Flow .work .our-work .section .row-1,.Our-Work-Flow .work .our-work .section .row-2{
+        flex-wrap: wrap;
+    }
+    .Our-Work-Flow .work .our-work .section .targe{
+        font-size: 80px;
+    }
+    .Our-Work-Flow .work .our-work .section .target{
+        font-size: 62px;
+
+    }
+    .Our-Work-Flow .work .our-work .section span{
+        font-size: 35px;
+
+    }
+    .Our-Work-Flow .work .our-work .section p{
+        font-size: 43px;
+    }
+    .Our-Work-Flow .work .our-work .section .row-1 .col-2,.Our-Work-Flow .work .our-work .section .row-2 .col-2{
+        margin: 0px;
+    }
+    .our-services .services{
+        font-size: 45px;
+    }
+
+
+    /* OUR-PRICEE */
+
+
+
+}
+@media (min-width:0)and ( max-width:547px){
+    .container{
+        width: 100%;
+        margin: 15px 0;
+
+    } 
+    .our-price{
+        width: 772px;
+         margin: 0;
+         padding-left: 33px;
+    }
+    .our-price .base .main-box{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+
+ }
+ .our-price .base .main-box .box1 {
+    width: 95%;
+    border-top: 6px solid #073341;
+    margin: 30px 0px;
+ }
+ .our-price .base .main-box .box1 .starter{
+    font-size: 39px;
+
+ }
+ .our-price .base .main-box .box1 .package{
+    font-size: 40px;
+    margin-top: -51px;
+
+ }
+ .our-price .base .main-box .box1 h2{
+    font-size: 60px;
+
+ }
+ .our-price .base .main-box .box1 span{
+    font-size: 29px;
+
+ }
+ .our-price .base .main-box .box1 ul li .pera{
+    font-size: 43px;
+
+ 
+}
+.our-price .base .main-box .box1 ul li{
+    padding:15px 0px;
+}
+.our-price img{
+    top: 90%;
+}
+.our-price .base .main-box .box1 .choose{
+    font-size: 41px;
+
+}
+}
+/* faqqqq */
+@media (min-width:0)and ( max-width:547px){
+    .container{
+        width: 100%;
+        margin: 15px 0;
+
+    } 
+    .ask{
+        width: 772px;
+         margin: 0;
+         padding-left: 33px;
+    }
+    .faqs .ask .que{
+        flex-wrap: wrap;
+    }
+    .faqs .ask .faq-header h1{
+        font-size: 43px;
+        padding-top: 41px;
+
+    }
+    .faqs .ask .faq-header .line{
+         width: 93px;
+    height: 3px;
+}
+
+.faqs .ask .faq-header .questio{
+    font-size: 56px;
+
+}
+.faqs .ask .que .dec {
+    width: 100%;
+}
+.faqs .ask .que .dec h4{
+    font-size: 47px;
+
+}
+.faqs .ask .que .dec p {
+    font-size: 43px;
+
+}
+.faqs .ask .que .dec .box .box1 p{
+    font-size: 41px;
+}
+.faqs .ask .que .dec .box .box1 p .i1,.faqs .ask .que .dec .box .box1 p .i2,.faqs .ask .que .dec .box .box1 p .i3,.faqs .ask .que .dec .box .box1 p .i4 {
+    margin-left: 90%;
+
+}
+.faqs .ask .que .form{
+    width:100%;
+    font-size: 53px;
+
+}
+.faqs .ask .que .form .ename{
+    width:100%;
+}
+.faqs .ask .que .form .ename input ,.faqs .ask .que .form .sub,.faqs .ask .que .form textarea{
+    display: flex;
+    width: 90%;
+    border-color: #ffffff;
+    padding: 43px;
+    border-radius: 8px;
+    border: 1px solid #dee2e6;
+    font-size: 42px;
+    margin: 20px;
+}
+.faqs .ask .que .form a{
+    padding: 37px;
+    font-size: 43px;
+
+}
+}
+   /* our clients */
+   @media (min-width:0)and ( max-width:547px){
+    .container{
+        width: 772px;
+        margin: 15px 0;
+
+    } 
+    /* .section
+{
+    width: 772px;
+} */
+ .our-clients{
+    width: 772px;
+ }
+    .ans{
+        width: 772px;
+         margin: 0;
+         padding-left: 33px;
+    }
+    .our-clients .our-header h1{
+        font-size: 40px;
+
+    }
+    .our-clients .our-header .line{
+        width: 110px;
+    height: 4px;
+    }
+    .our-clients .our-header .clients {
+        font-size: 58px;
+    }
+    .our-clients .ans .symbol{
+        display: block;
+        text-align: center;
+        margin: 65px 0px;
+    
+        
+    }
+    .our-clients .ans .symbol img{
+        width: 46%;
+
+    }
+    .our-clients .ans .symbol .f1{
+padding: 0px 42px;
+    }
+    .box-1, .our-clients .ans .photos .box-2{
+        display: none;
+    }
+    .our-clients .ans .photos .box-1{
+        width: 100%;
+    }
+    .our-clients .ans .photos .box-1 .pc img{
+        width: 150px;
+    height: 150px;
+    }
+    .our-clients .ans .photos .box-1 .write p{
+        font-size: 57px;
+
+    }
+    .fa-regular{
+         font-size: 72px;
+         color: chartreuse;
+}
+.our-clients .ans .photos .box-1 .write{
+    margin-left: 45px;
+
+}
+.our-clients .ans .photos .box-1 .write .star{
+    font-size: 32px;
+
+
+}
+.our-clients .ans .photos .box-1 .write h5{
+    font-size: 47px;
+}
+.our-clients .ans .photos .box-1 .write span{
+    font-size: 42px;
+    color: gray;
+}
+}
+/* footer */
+@media (min-width:0)and ( max-width:547px){
+    .container{
+        width: 100%;
+        margin: 15px 0;
+
+    } 
+    .free {
+        width: 772px;
+         margin: 0;
+         padding-left: 33px;
+         height: auto;
+         z-index: 0;
+
+    }
+    .footer-img .img-1{
+        top: -51%;
+        left: -335px;
+        z-index: -1;
+    }
+    
+    .footer-img .img-2{
+        top: -53%;
+        right: -44%;
+        z-index: -1;
+
+    }
+    .free .swrite h2{
+        font-size: 54px;
+    }  
+    .free .swrite P {
+        font-size: 39px;
+
+    }  
+    .free .swrite{
+        padding: 72px;
+    }
+    .free .swrite .button-1 .b1 {
+        /* padding: 25px 72px;
+        font-size: 29px;
+        display: block;
+        width: 56%; */
+        /* padding: 25px 72px;
+        font-size: 29px; */
+        /* display: block; */
+        /* width: 56%;
+        margin: 0px auto;
+        text-align: center; */
+        padding: 25px 72px;
+        font-size: 29px;
+        display: flex;
+        width: 60%;
+        margin: 0px auto;
+        text-align: center;
+        justify-content: center;
+        flex-direction: column;
+        margin: 38px auto;
+    }
+    
+
+    
+    .free .swrite .button-1 .b2{
+        padding: 25px 72px;
+        font-size: 29px;
+    }
+    .free .swrite .button-1{
+        margin-top: 64px;
+        /* text-align: center;
+        display: flex
+;
+        justify-content: center; */
+
+    }
+    .reno-1{
+        width: 772px;
+         margin: 0;
+         padding-left: 33px;
+         height: auto
+    } 
+
+    .renol {
+        display: block;
+    }
+    .reno-1 .renol .read-1 .logo{
+        font-size: 71px;
+
+    }
+    .reno-1 .renol .read-1 .logo a {
+        font-size: 56px;
+
+    }
+    .reno-1 .renol .read-1 .phone,.reno-1 .renol .read-1 .email i{
+        font-size: 37px;
+
+    }
+    .reno-1 .renol .read-1 .phone a,.reno-1 .renol .read-1 .email a{
+        font-size: 30px;
+
+    }
+    .reno-1 .renol .read-1 .icon .i2,.reno-1 .renol .read-1 .icon .i1 {
+        font-size: 43px;
+        padding: 22px;
+        color: rgba(255, 255, 255, 0.5);
+    }
+    .reno-1 .renol .read-2 h5{
+        font-size: 48px;
+
+    }
+    .reno-1 .renol .read-2 ul li{
+        font-size: 37px;
+        padding: 18px 0px;
+    
+    }
+    .reno-1 .renol .read-3 h5{
+        font-size: 48px;
+
+    }
+    .reno-1 .renol .read-3 ul li{
+        font-size: 37px;
+        padding: 18px 0px;
+    
+    }
+    .reno-1 .renol .read-4 h5 {
+        font-size: 45px;
+    }
+    .reno-1 .renol .read-4 .button .enter{
+        padding: 35px 28px;
+    width: 100%;
+    border: none;
+    background-color: rgba(129, 216, 111, 0.1);
+    font-size: 46px;
+    margin-right: 20px;
+    color: white;
+    }
+    .reno-1 .renol .read-4 .button i{
+        padding: 22px 34px;
+        font-size: 61px;
+        right: 30px;
+        border-radius: 15px;
+    }
+    .reno-1 .renol .read-4 .tw{
+        font-size: 50px;
+        padding-top: 17px;
+
+
+    }
+    .reno-1 .renol .read-4 p{
+        width: 772px;
+        line-height: 88.5px;
+        font-size: 44px;
+
+    }
+    .last{
+        width: 772px;
+        margin: 0;
+        padding-left: 33px;
+        height: auto
+    }
+    .last i{
+        font-size: 24px;
+        color: #8797a7;
+    }
+    .last .copy a{
+        font-size: 34px;
+    }
+    .last .copy{
+            font-size: 34px;
+
+    }
+    
+}
+
+
+
+
+
+
+
+@media(min-width:548px)and (max-width:768px){
+    .container{
+        width:720px;
+    }
+    .us {
+        width: 100%;    
+    }
+    .back .button
+    {
+        justify-content: center;
+    } 
+    .content .title{
+        font-size: 47px;
+    }
+    .back .content{
+        padding: 59px;
+    }
+    .about-back{
+        flex-wrap: wrap;
+    }
+    .about-us{
+        margin: 15px 15px;
+    }
+    .about{
+        font-size: 22px;
+
+    }
+    .about-us .border{
+        width: 58px;
+
+    }
+
+
+
+
+
+
+
+/* ou service */
+    .services{
+        font-size: 20px;
+        font-weight: 600;
+     } 
+     .container{
+        width: 100%;
+        margin: 15px 15px;
+
+    } 
+    /* .content .title{
+        padding: 0px 25px;
+        
+    } */
+    .our-services{
+     width: 100%;
+     margin: 0;
+     /* padding-left: 33px; */
+     padding: 33px;
+    }
+  .main-box .row-1 .col-1 .border{
+     width: 67px;
+  }
+ .main-box .row-1 .col-1 .Advance{
+ font-size: 29px;
+ }
+                
+ .main-box .row-1 .col-2 .pera{
+    font-size: 17px;
+ }
+.our-services .main-box .row-1 {
+flex-wrap: wrap;
+} 
+.our-services .main-box .row-2{
+flex-wrap: wrap;
+}
+.our-services .main-box .row-3{
+flex-wrap: wrap;
+margin-left: 0px;
+}
+.main-box .row-3 .col-1,.main-box .row-3 .col-2,.main-box .row-3 .col-3{
+    width: 100%;
+}
+.main-box .row-1 .col-2 a {
+font-size: 19px;
+}
+.main-box .row-1 .col-2 .logo4{
+font-size: 15px;
+padding-left: 10px;
+
+}
+.main-box .row-2 .col-1{
+padding-top: 172px;
+width: 100%;
+}
+.main-box .row-2 .col-2{
+padding-top: 117px;
+width: 100%;
+
+}
+.row-2 .col-1 .number,.row-2 .col-2 .number{
+font-size: 20px;
+}
+.row-2 .col-1 .title ,.row-2 .col-2 .title{
+font-size: 19px;
+/* margin: 10px 0px; */
+
+}
+.row-2 .col-1 .pera1,.row-2 .col-2 .pera1{
+font-size: 18px;
+}
+.main-box .row-3 .col-1{
+width: 100%;
+
+}
+.main-box .row-1 .col-2 {
+width:100%;
+}
+.row-3 .Design{
+font-size: 22px;
+
+}
+.row-3 .col-1 .logo5,.row-3 .col-2 .logo5,.row-3 .col-3 .logo5{
+    color: black;
+    height: 55px;
+    width: 55px;
+    font-size: 26px;
+    padding: 15px;
+    text-align: center;
+    background-color: #d1e7dd;
+    border-radius: 50px;
+
+
+}
+/* why choose us
+ */
+
+ .container{
+    width: 100%;
+    margin: 15px 0;
+
+} 
+.Why-Choose-Us{
+    width: 772px;
+     margin: 0;
+     padding: 33px;
+}
+.Why-Choose-Us .page .img .img6{
+    padding: 70px 0px;
+
+}
+.title .services{
+    font-size: 15px;
+} 
+.page {
+    flex-wrap: wrap;
+    width: 100%;
+}
+.border{
+    width: 51px;
+}
+.world{
+    font-size:27px;       
+}
+.pera2 {
+    font-size: 16px;
+}
+.button {
+    justify-content:left;
+}
+.body .button a{
+    font-size: 18px;
+}
+.body .title .point span{
+    font-size: 20px;
+
+}
+.circle{
+    font-size: 18.8px;
+
+}
+section{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* our work flow */
+
+
+.Our-Work-Flow{
+    width: 772px;
+     margin: 0;
+     padding: 33px;
+}
+.our-work{
+    margin: 0px;
+}
+.Our-Work-Flow .work{
+flex-wrap: wrap;
+}
+.Our-Work-Flow .work .our-work .section .row-1,.Our-Work-Flow .work .our-work .section .row-2{
+flex-wrap: wrap;
+}
+.Our-Work-Flow .work .our-work .section .target{
+font-size: 25px;
+}
+
+.Our-Work-Flow .work .our-work .section span{
+font-size: 19px;
+
+}
+.Our-Work-Flow .work .our-work .section p{
+font-size: 15px;
+}
+.Our-Work-Flow .work .our-work .section .row-1 .col-2,.Our-Work-Flow .work .our-work .section .row-2 .col-2{
+margin: 0px;
+}
+.our-services .services{
+font-size: 45px;
+}
+
+
+
+/* our price */
+
+
+
+.our-price{
+    width: 772px;
+     margin: 0;
+     padding: 33px;
+}
+.our-price .base .main-box{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    justify-content:start;
+
+}
+.our-price .base .main-box .box1 {
+width: 42%;
+border-top: 6px solid #073341;
+margin: 30px 0px;
+margin-right: 50px;
+
+}
+.our-price .base .main-box .box1 .starter{
+font-size: 19px;
+
+}
+.our-price .base .main-box .box1 .package{
+font-size: 16px;
+margin-top: -24px;
+
+}
+.our-price .base .main-box .box1 h2{
+font-size: 38px;
+
+}
+.our-price .base .main-box .box1 span{
+font-size: 19px;
+
+}
+.our-price .base .main-box .box1 ul li .pera{
+font-size: 20px;
+
+
+}
+.our-price .base .main-box .box1 ul li{
+padding:15px 0px;
+}
+.our-price img{
+top: 79%;
+}
+.our-price .base .main-box .box1 .choose{
+font-size: 15px;
+
+}
+/* faqqqq */
+.ask{
+    width: 772px;
+     margin: 0;
+     padding: 33px;
+}
+.faqs .ask .que{
+    flex-wrap: wrap;
+}
+.faqs .ask .faq-header h1{
+    font-size: 23px;
+    padding-top: 41px;
+
+}
+.faqs .ask .faq-header .line{
+     width: 71px;
+height: 3px;
+}
+
+.faqs .ask .faq-header .question{
+font-size: 28px;
+margin-top: 0px;
+
+
+}
+.faqs .ask .que .dec {
+width: 100%;
+}
+.faqs .ask .que .dec h4{
+font-size: 23px;
+
+}
+.faqs .ask .que .dec p {
+font-size: 19px;
+line-height: 1.3;
+
+
+}
+.faqs .ask .que .dec .box .box1 p{
+font-size: 18px;
+}
+.faqs .ask .que .dec .box .box1 p .i1,.faqs .ask .que .dec .box .box1 p .i2,.faqs .ask .que .dec .box .box1 p .i3,.faqs .ask .que .dec .box .box1 p .i4 {
+margin-left: 90%;
+
+}
+.faqs .ask .que .form{
+width:100%;
+font-size: 21px;
+
+}
+.faqs .ask .que .form .ename{
+width:100%;
+}
+.faqs .ask .que .form .ename input ,.faqs .ask .que .form .sub,.faqs .ask .que .form textarea{
+display: flex;
+width: 90%;
+border-color: #ffffff;
+padding: 17px;
+border-radius: 8px;
+border: 1px solid #dee2e6;
+font-size: 18px;
+margin: 10px;
+}
+.faqs .ask .que .form a{
+padding: 21px;
+font-size: 20px;
+
+}
+
+
+
+/* our clientt */
+.ans{
+    width: 772px;
+     margin: 0;
+     padding: 33px;
+}
+.our-clients .our-header h1{
+    font-size: 23px;
+
+}
+.our-clients .our-header .line{
+    width: 66px;
+height: 2px;
+}
+.our-clients .our-header .clients {
+    font-size: 28px;
+}
+.our-clients .ans .symbol{
+    display: flex;
+    /* text-align: center; */
+    margin: 65px 0px;
+    flex-wrap: wrap;
+
+    
+}
+.our-clients .ans .symbol img{
+    width: 34%;
+
+}
+.our-clients .ans .symbol .f1{
+padding: 0px 71px;
+}
+.box-1, .our-clients .ans .photos .box-2{
+    display: none;
+}
+.our-clients .ans .photos .box-1{
+    width: 100%;
+}
+.our-clients .ans .photos .box-1 .pc img{
+    width: 60px;
+height: 60px;
+}
+.our-clients .ans .photos .box-1 .write p{
+    font-size: 17px;
+
+}
+.fa-regular{
+     font-size: 17px;
+     color: chartreuse;
+     margin-top: 15px;
+
+}
+.our-clients .ans .photos .box-1 .write{
+margin-left: 45px;
+
+}
+.our-clients .ans .photos .box-1 .write .star{
+font-size: 13px;
+
+
+}
+.our-clients .ans .photos .box-1 .write h5{
+font-size: 15px;
+}
+.our-clients .ans .photos .box-1 .write span{
+font-size: 16px;
+color: gray;
+}
+
+
+
+/* footer */
+
+
+.free {
+    width: 772px;
+     margin: 0;
+     padding: 33px;
+     height: auto;
+     z-index: 0;
+
+}
+.footer-img .img-1{
+    top: -51%;
+    left: -335px;
+    z-index: -1;
+}
+
+.footer-img .img-2{
+    top: -53%;
+    right: -44%;
+    z-index: -1;
+
+}
+.free .swrite h2{
+    font-size: 29px;
+}  
+.free .swrite P {
+    font-size: 20px;
+
+}  
+.free .swrite{
+    padding: 72px;
+}
+.free .swrite .button-1 .b1 {
+    /* padding: 25px 72px;
+    font-size: 29px;
+    display: block;
+    width: 56%; */
+    /* padding: 25px 72px;
+    font-size: 29px; */
+    /* display: block; */
+    /* width: 56%;
+    margin: 0px auto;
+    text-align: center; */
+    padding: 11px 49px;
+    font-size: 18px;
+    display: flex;
+    width: 51%;
+    margin: 0px auto;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 27px auto;
+}
+
+
+
+.free .swrite .button-1 .b2{
+    padding: 11px 61px;
+    font-size: 18px;
+}
+.free .swrite .button-1{
+    margin-top: 64px;
+    /* text-align: center;
+    display: flex
+;
+    justify-content: center; */
+
+}
+.reno-1{
+    width: 772px;
+     margin: 0;
+     padding: 33px;
+     height: auto
+} 
+
+.renol {
+    display: block;
+}
+.reno-1 .renol .read-1 .logo{
+    font-size: 28px;
+
+}
+.reno-1 .renol .read-1 .logo a {
+    font-size: 25px;
+
+}
+.reno-1 .renol .read-1 .phone,.reno-1 .renol .read-1 .email i{
+    font-size: 16px;
+
+}
+.reno-1 .renol .read-1 .phone a,.reno-1 .renol .read-1 .email a{
+    font-size: 15px;
+
+}
+.reno-1 .renol .read-1 .icon .i2,.reno-1 .renol .read-1 .icon .i1 {
+    font-size: 19px;
+    padding: 14px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.read{
+    display: flex;
+    justify-content: space-between;
+}
+.reno-1 .renol .read-2 h5{
+    font-size: 24px;
+
+}
+.reno-1 .renol .read-2 ul li{
+    font-size: 23px;
+    padding: 18px 0px;
+
+}
+.reno-1 .renol .read-3{
+    padding-right: 88px;
+}
+.reno-1 .renol .read-3 h5{
+    font-size: 24px;
+
+}
+.reno-1 .renol .read-3 ul li{
+    font-size: 23px;
+    padding: 18px 0px;
+
+}
+.reno-1 .renol .read-4 h5 {
+    font-size: 20px;
+}
+.reno-1 .renol .read-4 .button .enter{
+    padding: 14px 18px;
+    width: 100%;
+    border: none;
+    background-color: rgba(129, 216, 111, 0.1);
+    font-size: 19px;
+    margin-right: 20px;
+    color: white;
+
+}
+.reno-1 .renol .read-4 .button i{
+    padding: 12px 20px;
+    font-size: 22px;
+    right: 19px;
+    border-radius: 15px;
+    top: -1px;
+}
+.reno-1 .renol .read-4 .tw{
+    font-size: 25px;
+    padding-top: 26px;
+
+
+}
+.reno-1 .renol .read-4 p{
+    width: 772px;
+    line-height: 88.5px;
+    font-size: 17px;
+
+}
+.last{
+    width: 772px;
+    margin: 0;
+    padding: 33px;
+    height: auto;
+    padding:1px 0px;
+}
+.reno-1 .renol .read-4 h5{
+    font-size: 16px;
+}
+.last i{
+    font-size: 15px;
+    color: #8797a7;
+}
+.last .copy a{
+    font-size: 16px;
+}
+.last .copy{
+        font-size: 15px;
+
+}
+    }
+
+
+    @media(min-width:769px)and (max-width:1024px){
+        .container{
+            width:960px;
+        }
+/* back */
+
+        .back{
+             width: 100%;
+             }
+             .us {
+                width: 100%;    
+            }
+            .about-us .best {
+                font-size: 38px;
+            }
+            
+            .about-us{
+                margin: 6px;
+                margin-left: 63px;
+
+            }
+            
+            .about-us .title1 .pera{
+                font-size: 20px;
+            }
+            .img2{
+                 margin-right: 449px;
+
+            }
+
+        
+        
+        
+        
+        /* ou service */
+            .services{
+                font-size: 20px;
+                font-weight: 600;
+             } 
+             .container{
+                width: 100%;
+                margin: 15px 15px;
+        
+            } 
+            /* .content .title{
+                padding: 0px 25px;
+                
+            } */
+            .our-services{
+             width: 100%;
+             margin: 0;
+             /* padding-left: 33px; */
+             padding: 33px;
+            }
+            .our-services .services {
+                font-size: 19px;
+            }
+          
+         .main-box .row-1 .col-1 .Advance{
+         font-size: 36px;
+         }
+                        
+         .main-box .row-1 .col-2 .pera{
+            font-size: 17px;
+         }
+        
+        
+        .main-box .row-2 .col-1{
+        /* padding-top: 172px;
+        width: 100%; */
+            margin-right: 54px;
+        }
+        
+       
+        .row-3 .Design{
+            padding-right: 18px;
+
+            font-size: 13px;
+
+        }
+        .row-3 .col-1 .logo5,.row-3 .col-2 .logo5,.row-3 .col-3 .logo5{
+            color: black;
+
+        }
+        /* why choose us
+         */
+        
+           .container{
+            width: 100%;
+            margin: 15px 0;
+        
+        } 
+        .Why-Choose-Us{
+            width: 100%;
+             margin: 0;
+             padding: 33px;
+        }
+        .Why-Choose-Us .page .img .img6{
+            padding: 70px 0px;
+        
+        }
+       
+        .button {
+            justify-content:left;
+        }
+        
+        .body .title .point span{
+            font-size: 17px;
+        
+        }
+       
+        .page .img{
+            margin-left:33px;
+        }
+       
+    
+        
+        
+        /* our work flow */
+        
+        
+        .Our-Work-Flow{
+            width: 100%;
+             margin: 0;
+             padding: 33px;
+        }
+        .our-work{
+            margin: 0px;
+        }
+        .world{
+            font-size: 32px;
+
+        }
+      
+        .Our-Work-Flow .work .our-work .section p{
+        font-size: 19px;
+        }
+      
+      
+        .work .img{
+            margin-right: 80px;
+        }
+        
+        
+        /* our price */
+        
+        
+        
+        .our-price{
+            width: 100%;
+             margin: 0;
+             padding: 33px;
+        }
+        .our-price .base .main-box{
+            display: flex;
+            /* flex-wrap: wrap; */
+            justify-content: center;
+            /* justify-content:start; */
+        
+        }
+        .our-price .base .main-box .box1 {
+        width: 42%;
+        border-top: 6px solid #073341;
+        margin: 30px 0px;
+        margin-right: 17px;
+        
+        }
+        .our-price .base .main-box .box1 .starter{
+        font-size: 19px;
+        
+        }
+        .our-price .base .main-box .box1 .package{
+        font-size: 16px;
+        margin-top: -24px;
+        
+        }
+        .our-price .base .main-box .box1 h2{
+        font-size: 38px;
+        
+        }
+        .our-price .base .main-box .box1 span{
+        font-size: 19px;
+        
+        }
+        .our-price .base .main-box .box1 ul li .pera{
+        font-size: 20px;
+        
+        
+        }
+        .our-price .base .main-box .box1 ul li{
+        padding:15px 0px;
+        }
+        .our-price img{
+        top: 56%;
+        }
+        .our-price .base .main-box .box1 .choose{
+        font-size: 15px;
+        
+        }
+        /* faqqqq */
+        .ask{
+            width: 100%;
+             margin: 0;
+             padding: 33px;
+        }
+        
+        .faqs .ask .faq-header h1{
+            font-size: 23px;
+            padding-top: 41px;
+        
+        }
+        .faqs .ask .faq-header .line{
+             width: 71px;
+        height: 3px;
+        }
+        
+        .faqs .ask .faq-header .question{
+        font-size: 28px;
+        margin-top: 0px;
+        
+        
+        }
+        .faqs .ask .que .dec {
+        width: 100%;
+        margin-right: 66px;
+
+        }
+        .faqs .ask .que .dec h4{
+        font-size: 18px;
+        
+        }
+        .faqs .ask .que .dec p {
+        font-size: 18px;
+        line-height: 1.3;
+        
+        
+        }
+        .faqs .ask .que .dec .box .box1 p{
+        font-size: 22px;
+        }
+        .faqs .ask .que .dec .box .box1 p .i1,.faqs .ask .que .dec .box .box1 p .i2,.faqs .ask .que .dec .box .box1 p .i3,.faqs .ask .que .dec .box .box1 p .i4 {
+        margin-left: 90%;
+        
+        }
+        .faqs .ask .que .form{
+        width:100%;
+        font-size: 21px;
+        
+        }
+        .faqs .ask .que .form .ename{
+        width:100%;
+        }
+        .faqs .ask .que .form .ename input ,.faqs .ask .que .form .sub,.faqs .ask .que .form textarea{
+        display: flex;
+        width: 90%;
+        border-color: #ffffff;
+        padding: 17px;
+        border-radius: 8px;
+        border: 1px solid #dee2e6;
+        font-size: 18px;
+        margin: 10px;
+        }
+        .faqs .ask .que .form a{
+        padding: 13px;
+        font-size: 20px;
+        
+        }
+        .our-clients{
+            width: 100%;
+             margin: 0;
+             padding: 33px;
+        }
+        .our-clients .ans .photos .box-1 .write p,.our-clients .ans .photos .box-2 .write p{
+            font-size: 20px;
+
+            
+        }
+        .our-clients .ans .photos .box-1{
+            margin-right: 30px;
+
+        }
+
+
+
+        .free {
+            width: 100%;
+             margin: 0;
+             padding: 33px;
+             height: auto;
+             z-index: 0;
+        
+        }
+        .footer-img .img-1{
+            top: -51%;
+            left: -335px;
+            z-index: -1;
+        }
+        
+        .footer-img .img-2{
+            top: -53%;
+            right: -34%;
+            z-index: -1;
+        
+        }
+        .free .swrite h2{
+            font-size: 43px;
+        }  
+        .free .swrite P {
+            font-size: 20px;
+        
+        }  
+        .free .swrite{
+            padding: 72px;
+        }
+        .free .swrite .button-1 .b1 {
+            /* padding: 25px 72px;
+            font-size: 29px;
+            display: block;
+            width: 56%; */
+            /* padding: 25px 72px;
+            font-size: 29px; */
+            /* display: block; */
+            /* width: 56%;
+            margin: 0px auto;
+            text-align: center; */
+            padding: 16px 33px;
+            font-size: 21px;
+            display: flex;
+            width: 39%;
+            margin: 0px auto;
+            text-align: center;
+            justify-content: center;
+            flex-direction: column;
+            margin: 30px auto;
+        }
+        
+        
+        
+        .free .swrite .button-1 .b2 {
+            padding: 17px 48px;
+            font-size: 21px;
+        }
+        .free .swrite .button-1{
+            margin-top: 64px;
+            /* text-align: center;
+            display: flex
+        ;
+            justify-content: center; */
+        
+        }
+        .reno-1{
+            width: 100%;
+             margin: 0;
+             padding: 33px;
+             height: auto
+        } 
+        
+        .renol {
+            display: flex;
+        }
+        .reno-1 .renol .read-1 .logo{
+            font-size: 21px;
+        
+        }
+        .reno-1 .renol .read-1 .logo a {
+            font-size: 19px;
+        
+        }
+        .reno-1 .renol .read-1 .phone,.reno-1 .renol .read-1 .email i{
+            font-size: 16px;
+        
+        }
+        .reno-1 .renol .read-1 .phone a,.reno-1 .renol .read-1 .email a{
+            font-size: 15px;
+        
+        }
+        .reno-1 .renol .read-1 .icon .i2,.reno-1 .renol .read-1 .icon .i1 {
+            font-size: 13px;
+            padding: 7px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+        .read{
+            display: flex;
+            justify-content: space-between;
+        }
+        .reno-1 .renol .read-2 h5{
+            font-size: 14px;
+        
+        }
+        .reno-1 .renol .read-2 ul li{
+            font-size: 16px;
+            /* padding: 18px 0px; */
+        
+        }
+        .reno-1 .renol .read-3{
+            padding-right: 88px;
+        }
+        .reno-1 .renol .read-3 h5{
+            font-size: 14px;
+        
+        }
+        .reno-1 .renol .read-3 ul li{
+            font-size: 16px;
+            /* padding: 18px 0px; */
+        
+        }
+        .reno-1 .renol .read-4 h5 {
+            font-size: 20px;
+        }
+        .reno-1 .renol .read-4 .button .enter{
+            padding: 14px 18px;
+            /* width: 100%; */
+            border: none;
+            background-color: rgba(129, 216, 111, 0.1);
+            font-size: 19px;
+            margin-right: 20px;
+            color: white;
+        
+        }
+        .reno-1 .renol .read-4 .button i{
+            padding: 12px 20px;
+            font-size: 22px;
+            right: 65px;
+            border-radius: 15px;
+            top: -1px;
+        }
+        .reno-1 .renol .read-4 .tw{
+            font-size: 25px;
+            padding-top: 10px;
+        
+        }
+            .reno-1 .renol .read-3{
+                padding: 0px;
+            }
+            
+            
+            
+            .reno-1 .renol .read-4 {
+                margin-left: 33px;
+            }
+        .reno-1 .renol .read-4 p{
+            width: 100%;
+            /* line-height: 88.5px; */
+            font-size: 14px;
+        
+        }
+        .back .button
+        {
+            justify-content: center;
+        } 
+        .last{
+            width: 100%;
+            margin: 0;
+            padding: 33px;
+            height: auto;
+            padding:1px 0px;
+        }
+        .reno-1 .renol .read-4 h5{
+            font-size: 16px;
+        }
+        .last i{
+            font-size: 15px;
+            color: #8797a7;
+        }
+        .last .copy a{
+            font-size: 16px;
+        }
+        .last .copy{
+                font-size: 15px;
+        
+        }
+    }
+
+
+
+
+
+    @media(min-width:1025px)and (max-width:1440px){
+        /* @media(min-width:1025px){ */
+        .container{
+            width:1040px;
+        }
+        .back .button
+        {
+            justify-content: center;
+        } 
+        .fa-regular{
+            color: black;
+        }
+        .button {
+            justify-content: left;
+        }
+
+        .our-price img{
+            top: 247px;
+
+        }
+
+        .our-price .base .main-box .box1 {
+            width: 42%;
+            border-top: 6px solid #073341;
+            margin: 30px 0px;
+            margin-right: 17px;
+        }    
+        .faqs .ask .que .dec {
+            width: 100%;
+            margin-right: 66px;
+        }
+        .faqs .ask .que .dec .box .box1 p .i1, .faqs .ask .que .dec .box .box1 p .i2, .faqs .ask .que .dec .box .box1 p .i3, .faqs .ask .que .dec .box .box1 p .i4{
+            margin-left: 90%;
+        }
+        .our-clients .ans .photos .box-1 {
+            margin-right: 30px;
+        }
+        .free .swrite{
+            padding: 62px;
+        }
+        .footer-img .img-1 {
+            top: -98%;
+            left: -24%;
+        }
+        .footer-img .img-2{
+            top: -84%;
+            right: -24%;
+        }
+        .read {
+            display: flex;
+            justify-content: space-between;
+    }
+    
+.reno-1 .renol .read-3 {
+    margin-left: 86px;
+}
+.last i {
+    font-size: 15px;
+    color: #8797a7;
+}
+.faqs{
+    width:100%;
+}
+.Our-Work-Flow{
+    width: 100%;
+}
+    }
+
+
+    @media(min-width:1441px){
+        .container{
+            width:1040px;
+        }
+        .back .button
+        {
+            justify-content: center;
+        } 
+        .fa-regular{
+            color: black;
+        }
+        .button {
+            justify-content: left;
+        }
+
+        .our-price img{
+            top: 247px;
+
+        }
+
+        .our-price .base .main-box .box1 {
+            width: 42%;
+            border-top: 6px solid #073341;
+            margin: 30px 0px;
+            margin-right: 17px;
+        }    
+        .faqs .ask .que .dec {
+            width: 100%;
+            margin-right: 66px;
+        }
+        .faqs .ask .que .dec .box .box1 p .i1, .faqs .ask .que .dec .box .box1 p .i2, .faqs .ask .que .dec .box .box1 p .i3, .faqs .ask .que .dec .box .box1 p .i4{
+            margin-left: 90%;
+        }
+        .our-clients .ans .photos .box-1 {
+            margin-right: 30px;
+        }
+        .free .swrite{
+            padding: 62px;
+        }
+        .footer-img .img-1 {
+            top: -98%;
+            left: -327px;
+        }
+        .footer-img .img-2{
+            top: -84%;
+            right: -348px;
+        }
+        .read {
+            display: flex;
+            justify-content: space-between;
+    }
+    
+    
+    
+.reno-1 .renol .read-3
+ {
+    margin-left: 86px;
+}
+.last i {
+    font-size: 15px;
+    color: #8797a7;
+}
+.Our-Work-Flow{
+    width: 100%;
+}
+}
